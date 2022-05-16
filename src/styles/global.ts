@@ -65,6 +65,10 @@ button {
     display: flex;
     align-items: center;
     justify-content: center;
+
+    @media (max-width: 720px) {
+        width: 100vw;
+    }
 }
 
 .react-modal-content {
@@ -74,6 +78,11 @@ button {
     padding: 3rem;
     position: relative;
     border-radius: 0.25rem;
+
+    @media (max-width: 720px) {
+        width: 100vw;
+        margin: 0.5rem;
+    }
 }
 
 .react-modal-close {
