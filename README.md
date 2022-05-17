@@ -9,6 +9,7 @@ Versão Dsktop
 ![image](https://user-images.githubusercontent.com/68654450/168915762-00364323-bd01-4d2e-8986-3080478ba28e.png)
 
 Versão Mobile
+
 ![image2](https://user-images.githubusercontent.com/68654450/168915871-33e2c090-91d0-4d23-9c40-f613d7d0cbc1.png)
 
   
