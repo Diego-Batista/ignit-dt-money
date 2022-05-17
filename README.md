@@ -3,7 +3,7 @@
 ## Descrição do Projeto
 <p align="center">Projeto desenvolvido no curso Ignite da Rocketseat. Tratasse de uma aplicação onde o seu principal objetivo é adicionar entradas e despesas fazendo calculo automático do total utilizando Reactjs, Typscript, styled-components e uma fake API com o miragejs.🚀</p>
   
-Versão Dsktop
+Versão Desktop
 ![image](https://user-images.githubusercontent.com/68654450/168915762-00364323-bd01-4d2e-8986-3080478ba28e.png)
 
 Versão Mobile
